@@ -5,7 +5,7 @@ Sistem za preporuku filmova, baziran na sistemima preporuka uz više mogućnosti
 **POTREBNO:**
 1.  pandas-------->pip install pandas
 2.   numpy-------->pip install numpy
-3.~~   fuzzywuzzy--->pip install fuzzywuzzy[speedup]  ~~
+3.~~fuzzywuzzy--->pip install fuzzywuzzy[speedup]~~
 ------------------------------------------------------------------------------------------------
 **POKRENUTI:**
 1.  cd .../.../MOVIE_RECOMMENDATIONS
